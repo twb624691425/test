@@ -1,3 +1,4 @@
 git is a build version control system
 git is a free software
 git 管理的是修改而非文件
+git 管理的是修改而非文件
